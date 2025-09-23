@@ -10,3 +10,7 @@ In soc design flow the rtl code is divided into Processor and Peripherals/IPs.
 
 ### iverilog
 <img width="1868" height="1414" alt="image" src="https://github.com/user-attachments/assets/e7b50990-92a5-4c5f-9a73-555b3d2e3d8a" />
+
+### Yosys
+<img width="1868" height="1414" alt="image" src="https://github.com/user-attachments/assets/6a665ee0-cd00-49d5-936f-cedd2ff953ce" />
+

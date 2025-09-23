@@ -14,3 +14,5 @@ In soc design flow the rtl code is divided into Processor and Peripherals/IPs.
 ### Yosys
 <img width="1868" height="1414" alt="image" src="https://github.com/user-attachments/assets/6a665ee0-cd00-49d5-936f-cedd2ff953ce" />
 
+### ngspice
+<img width="1868" height="1414" alt="image" src="https://github.com/user-attachments/assets/d5ddb3bb-a820-4aa7-9248-eebdc9535be2" />
